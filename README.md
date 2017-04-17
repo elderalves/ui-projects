@@ -23,7 +23,7 @@ Check out the full [CodePen collection here](http://codepen.io/collection/DNzmyZ
     <tbody>
         <tr>
             <td><strong>001</strong></td>
-            <td><img src="resources/images/thumbnails/ui-001.png"></img></td>
+            <td><img src="resources/images/thumbnail/ui-001.png"></img></td>
             <td>Product Color Switch</td>
             <td align="center"><a href="https://fullstackreact.com/react-daily-ui/001-sign-up-form/">:white_check_mark: :arrow_right:</a></td>
         </tr>
