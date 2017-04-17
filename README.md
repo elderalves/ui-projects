@@ -25,7 +25,7 @@ Check out the full [CodePen collection here](http://codepen.io/collection/DNzmyZ
             <td><strong>001</strong></td>
             <td><img src="resources/images/thumbnail/ui-001.png"></img></td>
             <td>Product Color Switch</td>
-            <td align="center"><a href="https://fullstackreact.com/react-daily-ui/001-sign-up-form/" target="_blank">:white_check_mark: :arrow_right:</a></td>
+            <td align="center"><a href="#" target="_blank">:white_check_mark: :arrow_right:</a></td>
         </tr>
     </tbody>
 </table>
