@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Product Color - Page</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="left-column">
+      <img data-image="yellow" src="images/backpack-yellow.png" alt="">
+      <img data-image="red" src="images/backpack-red.png" alt="">
+      <img class="active" data-image="green" src="images/backpack-green.png" alt="">
+    </div>
+
+    <div class="right-column">
+      <div class="product-description">
+        <span>Backpack</span>
+        <h1>Vibrant Backpack</h1>
+        <p>
+          The preferred choice of a vast range of acclaimed  DJs.
+          Punchy, bass-focused sound and high isolation. Sturdy
+          headband and on-ear cushions suitable for live performance
+        </p>
+      </div>
+      <div class="product-configuration">
+        <div class="product-color">
+          <span>Color</span>
+
+          <div class="color-choose">
+            <div>
+              <input type="radio" data-image="yellow" id="yellow" name="color" value="yellow">
+              <label for="yellow"><span></span></label>
+            </div>
+            <div>
+              <input type="radio" data-image="red" id="red" name="color" value="red" checked>
+              <label for="red"><span></span></label>
+            </div>
+            <div>
+              <input type="radio" data-image="green" id="green" name="color" value="green">
+              <label for="green"><span></span></label>
+            </div>
+          </div>
+        </div>
+
+        <div class="cable-config">
+          <span>Cable configuration</span>
+          <div class="cable-choose">
+            <button>Straight</button>
+            <button>Coiled</button>
+            <button>Long-coiled</button>
+          </div>
+          <a href="#">How to configure your headphones</a>
+        </div>
+      </div>
+
+      <div class="product-price">
+        <span>148$</span>
+        <a href="#" class="cart-btn">Add to cart</a>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
