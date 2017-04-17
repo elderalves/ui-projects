@@ -6,9 +6,6 @@
 
 # UI Projects
 
-> A collection of React apps built by [Jack Oliver](http://www.jackoliver.info/react-daily-ui/) and blogged by [Sophia Shoemaker](https://twitter.com/wisecobbler) and the [Fullstack React](https://fullstackreact.com) team.
->
-
 I'm excited to share with you some of my insights, works, and experimental things that I like to do with User Interface.
 
 Check out the full [CodePen collection here](http://codepen.io/collection/DNzmyZ/).
