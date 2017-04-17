@@ -14,7 +14,7 @@ Check out the full [CodePen collection here](http://codepen.io/collection/DNzmyZ
 <table>
     <thead>
         <tr>
-            <th>Day</th>
+            <th>Nº</th>
             <th>Preview</th>
             <th>Description</th>
             <th>Blog</th>
