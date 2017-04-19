@@ -17,7 +17,7 @@ Check out the full [CodePen collection here](http://codepen.io/collection/DNzmyZ
             <th>Nº</th>
             <th>Preview</th>
             <th>Description</th>
-            <th>Blog</th>
+            <th>Live</th>
         </tr>
     </thead>
     <tbody>
