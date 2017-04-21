@@ -29,7 +29,7 @@ Check out the full [CodePen collection here](http://codepen.io/collection/DNzmyZ
         </tr>
         <tr>
             <td><strong>002</strong></td>
-            <td><img src="resources/images/thumbnail/ui-002.png"></img></td>
+            <td><img src="resources/images/thumbnail/ui-002.jpg"></img></td>
             <td>Slider Morph</td>
             <td align="center"><a href="https://codepen.io/MichaelAlves/full/zwvxoQ/" target="_blank">:white_check_mark: :arrow_right:</a></td>
         </tr>
