@@ -33,6 +33,15 @@ Check out the full [CodePen collection here](http://codepen.io/collection/DNzmyZ
             <td>Slider Morph</td>
             <td align="center"><a href="https://codepen.io/MichaelAlves/full/KmzZXv/" target="_blank">:white_check_mark: :arrow_right:</a></td>
         </tr>
+        <tr>
+            <td><strong>003</strong></td>
+            <td><img src="resources/images/thumbnail/ui-003.jpg"></img></td>
+            <td>Pure Reactive UI</td>
+            <td align="center">
+                <a href="https://github.com/suforoso/pure-reactive-ui" target="_blank">:octocat:</a>
+                <a href="https://pure-reactive-ui.firebaseapp.com/" target="_blank">:earth_americas:</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
